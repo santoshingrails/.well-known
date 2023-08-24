@@ -6,4 +6,20 @@
     "sha256_cert_fingerprints":
     ["DF:E3:93:77:33:B0:AA:03:F7:AA:14:AD:80:AC:D8:2B:79:F5:B7:77:7E:DF:B7:84:C6:6B:50:FF:B8:28:01:F9"]
   }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://ingrails.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ingrils.organisatiom.activity.teacherapp",
+    "sha256_cert_fingerprints":
+    ["DF:E3:93:77:33:B0:AA:03:F7:AA:14:AD:80:AC:D8:2B:79:F5:B7:77:7E:DF:B7:84:C6:6B:50:FF:B8:28:01:F9"]
+  }
 }]
