@@ -4,22 +4,6 @@
     "namespace": "android_app",
     "package_name": "com.ingrils.organisatiom.activity.teacherapp",
     "sha256_cert_fingerprints":
-    ["C6:13:E6:32:85:38:C0:71:9C:99:2C:85:8E:0B:D1:21:CD:BC:FE:63:17:AC:08:DE:3E:0B:8C:3E:1E:D0:68:C8"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://santoshingrails.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ingrils.organisatiom.activity.teacherapp",
-    "sha256_cert_fingerprints":
-    ["C6:13:E6:32:85:38:C0:71:9C:99:2C:85:8E:0B:D1:21:CD:BC:FE:63:17:AC:08:DE:3E:0B:8C:3E:1E:D0:68:C8"]
+    ["AE:6F:17:27:DC:F1:B7:31:9F:46:2F:95:50:30:2A:7B:1C:F8:DC:7C:C6:D7:68:8D:A1:11:8D:7A:41:59:9C:1A"]
   }
 }]
