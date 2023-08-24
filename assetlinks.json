@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ingrils.organisatiom.activity.teacherapp",
+    "sha256_cert_fingerprints":
+    ["C6:13:E6:32:85:38:C0:71:9C:99:2C:85:8E:0B:D1:21:CD:BC:FE:63:17:AC:08:DE:3E:0B:8C:3E:1E:D0:68:C8"]
+  }
+}]
